@@ -1,4 +1,4 @@
-//첫 번째 ... cnt이용
+//첫 번째 ... cnt 이용 x
 
 #include <stdio.h>
 
